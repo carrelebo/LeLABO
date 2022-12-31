@@ -8,7 +8,9 @@ système de création de contenue type blog et divers sans base de donné ! Dév
 en cours de réalisation : concept du system
 
 
-# ofian - faire de la musique avec différents type d'encodement écris en langage D ! :
+# ofian : 
+
+faire de la musique avec différents type d'encodement écris en langage D ! :
 
 one-ofian et two-ofian
 
