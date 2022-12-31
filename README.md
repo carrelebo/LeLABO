@@ -5,7 +5,7 @@ confectionner les meilleurs technologies et outils devéloppement, c'est ici que
 
 système de création de contenue type blog et divers sans base de donné ! Développé avec du HTML/CSS + JavaScript
 
-en cours de réalisation : concept du system
+en cours de réalisation : concept du système
 
 
 # ofian : 
